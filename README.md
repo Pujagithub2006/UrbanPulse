@@ -49,6 +49,3 @@ Upcoming:
 | Hosting Tools | Docker (optional), CronJob for scheduling |
 
 ---
-
-## 📁 Folder Structure (Expected)
-
